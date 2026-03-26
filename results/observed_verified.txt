@@ -1,0 +1,5 @@
+Observed Ubuntu run:
+
+$ ./scripts/run_verified.sh
+
+(no output)

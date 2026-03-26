@@ -1,0 +1,6 @@
+Observed Ubuntu run:
+
+$ ./scripts/run_counterexamples.sh
+/home/vboxuser/Downloads/crosshair_coursework_zip/src/counterexample_harnesses.py:25: error: AssertionError: when calling too_strong_secure_filename_never_empty('\x01')
+/home/vboxuser/Downloads/crosshair_coursework_zip/src/counterexample_harnesses.py:37: error: AssertionError: when calling too_strong_canonicalize_name_never_changes_length('İ')
+/home/vboxuser/Downloads/crosshair_coursework_zip/src/counterexample_harnesses.py:50: error: AssertionError: when calling too_strong_parse_dict_header_never_contains_none('\x00')
